@@ -15,7 +15,7 @@ if(hora <= 11){
     saudacao= "Boa noite.";
 }
 
-console.log("Ola" + saudacao);
+console.log("Ola " + saudacao);
 console.log("Agora são " + hora + " horas e " + min + " minutos.");
 
 
